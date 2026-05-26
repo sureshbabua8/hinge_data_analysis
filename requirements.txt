@@ -1,0 +1,11 @@
+numpy
+pandas
+polars
+ipykernel
+jupyterlab
+matplotlib
+pyarrow
+hvplot
+seaborn
+
+
